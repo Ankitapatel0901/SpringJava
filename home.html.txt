@@ -17,7 +17,7 @@
 <div class="container mt-5 col-6" style="background-color:grey ;border-radius:5px">
             <h1 style="color: brown"><center>Registration Form</center></h1>
             <form method="post" action="Insert.jsp" >
-            
+            jhsakdhkjshfjdsh
          <label>Product Id</label><br>
           <input type="text" placeholder="product_id " name="product_id" class="form-control"  ><br>
           
